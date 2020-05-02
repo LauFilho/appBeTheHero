@@ -1,0 +1,4 @@
+Componente em React = Uma função que retorna HTML
+JSX (JavaScript XML) = HTML importado dentro do JavaScript
+Atualização automática do Navegador = "Live Reload"
+React deve ser importado em todo lugar que for utilizar JSX
